@@ -1,0 +1,10 @@
+{
+  "name": "Aplikasi Absen Guru",
+  "description": "Aplikasi pencatatan presensi, rekapitulasi kehadiran, dan manajemen data guru PKBM Menara (NPSN P9954430).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
